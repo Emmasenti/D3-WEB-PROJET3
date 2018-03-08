@@ -1,0 +1,233 @@
+body{
+  background: #F6F0ED;
+  font-family: 'Acme', sans-serif;
+color: #28536B;
+
+
+
+}
+
+header{
+  min-height: 100vh;
+  background-image: url('images/tigerfinalvrai.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+font-family: 'Yantramanav', sans-serif;
+  text-align: center;
+}
+
+
+.header-content-block{
+  background-color: #F6F0ED;
+  padding: 22px;
+  background: rgba(246, 240, 237, 0.8);
+}
+
+
+.header-content-block h1{
+  font-size: 6em;
+  color: #28536B;
+  font-family: 'Acme', sans-serif;
+}
+
+
+ .header-content-block p{
+   font-size: 3em;
+   color: #ABC4AB;
+font-family: 'Yantramanav', sans-serif;
+   font-weight: lighter;
+ }
+
+
+
+
+
+
+
+
+#bio h1{
+  font-size: 30px;
+  font-weight: bold;
+  background: #F6F0ED;
+  color: #000000;
+font-family: 'Yantramanav', sans-serif;
+padding-bottom: 60px;
+padding-top: 60px;
+padding-left: 60px;
+
+}
+
+
+.bio-content-block{
+  padding-bottom: 60px;
+}
+.bio-content-block p {
+
+max-width: 960px;
+margin: auto;
+columns: 2;
+font-size: 1.5em;
+text-align: left;
+position: relative;
+min-height: 70vh;
+max-height: 100vh;
+line-height: 28px;
+
+}
+
+
+
+
+
+#comp{
+  background-color: #FCEFF9;
+}
+
+.comp-section-content {
+  font-size: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+
+}
+.comp-section-content h2{
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+  color: #000000;
+font-family: 'Yantramanav', sans-serif;
+}
+.comp-section-content p{
+  width: 220px;
+  line-height: 25px;
+
+
+
+}
+
+.comp-section-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.comp-content a{
+  color: #ABC4AB;
+  text-decoration: none;
+  font-style: oblique;
+  font-size: 15px;
+  text-align: left;
+}
+
+.comp-content img{
+  max-width: 220px;
+}
+
+
+
+
+
+
+
+
+#portfolio h1{
+  font-size: 30px;
+  font-weight: bold;
+  background: #F6F0ED;
+  color: #000000;
+font-family: 'Yantramanav', sans-serif;
+padding-top: 60px;
+padding-bottom: 60px;
+padding-left: 60px;
+
+}
+
+#portfolio{
+  background: #F6F0ED;
+}
+
+#portfolio h1{
+  font-size: 30px;
+  font-weight: bold;
+}
+.portfolio-content{
+  font-size: 20px;
+  display:inline-block;
+
+  padding: 22px;
+  max-width: 480px;
+  margin: 20px;
+  position: relative;
+  width: auto;
+
+}
+
+.portfolio{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.portfolio-content img{
+max-width: 320px;
+
+}
+.portfolio-section-content p {
+  margin-left: 3em;
+  margin-right: 6em;
+}
+
+
+.portfolio-content a{
+  text-decoration: none;
+  font-style: oblique;
+  font-size: 15px;
+  color: #28536B;
+}
+
+
+
+
+
+
+
+
+footer{
+  background-color: #FCEFF9;
+
+  }
+
+
+.address{
+  color: #28536B;
+  padding-top: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  line-height: 20px;
+}
+
+.social-links{
+  color: #ABC4AB;
+  text-align: right;
+  padding-bottom: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.social-links a {
+  color: #ABC4AB;
+  text-align: right;
+  text-decoration: none;
+
+
+}
